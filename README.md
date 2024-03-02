@@ -1,20 +1,20 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Scavenger Hunt*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that ... [TODO] 
+**Scavenger Hunt** is an app that features a list that prompts users to upload photos corresponding to specific tasks. Once a user attaches a photo to a task, the app displays the location where the photo was taken on a map.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays list of hard-coded tasks
-- [ ] When a task is tapped it navigates the user to a task detail view
-- [ ] When user adds photo to complete the tasks, it marks the task as complete
-- [ ] When adding photo of task, the location is added
-- [ ] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [x] App displays list of hard-coded tasks
+- [x] When a task is tapped it navigates the user to a task detail view
+- [x] When user adds photo to complete the tasks, it marks the task as complete
+- [x] When adding photo of task, the location is added
+- [x] User returns to home page (list of tasks) and the status of your task is updated to complete
  
 The following **optional** features are implemented:
 
