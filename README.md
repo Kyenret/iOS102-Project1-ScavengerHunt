@@ -34,11 +34,11 @@ The following **additional** features are implemented:
  
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not encounter significant challenges because the lab task effectively guided me through navigating the project for this unit.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
